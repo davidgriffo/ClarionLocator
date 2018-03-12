@@ -1,0 +1,7 @@
+*.obj
+*.cache
+*.lib
+*.obj
+*.rsc
+*.map
+*.xml
